@@ -1,2 +1,2 @@
 # Naive-Base-Classifier
-Navie Base Classifier for classifiing imdb comments 
+Navie Base Classifier for classifing imdb comments 
