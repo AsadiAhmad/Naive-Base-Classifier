@@ -1,2 +1,2 @@
 # Naive-Base-Classifier
-Navie Base Classifier in Google colabe notebook
+Navie Base Classifier for classifiing imdb comments 
